@@ -10,7 +10,7 @@ public class firstREPO {
 @Given("^First given$")
 public void first_given() throws Throwable {
     // Write code here that turns the phrase above into concrete actions
-	System.out.println("First Given");
+	System.out.println("First Given for pulling");
     
 }
 
